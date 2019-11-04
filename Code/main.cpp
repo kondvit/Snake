@@ -4,7 +4,7 @@
 #include <random>
 #include <chrono>
 
-//constans
+//constants
 const float SNAKE_SIZE = 50.f;
 const float WINDOW_HEIGHT = 1000.f;
 const float WINDOW_WIDTH = 1500.f;
